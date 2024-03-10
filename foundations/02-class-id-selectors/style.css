@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 0, 0);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.classone {
+    font-size: 24px;
+}
+
+#idone {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#idtwo {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
